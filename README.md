@@ -2,7 +2,7 @@
 <b> 『Lêɠêɳ̃dẞø†』🇮🇳 </b>
 </h1>
 
-[![LEGENDBOT](https://telegra.ph/file/2dd82644aa7f19518fe60.jpg)](https://github.com/LEGENDS-OP/LEGENDUSERBOT)
+[![LEGENDBOT](https://te.legra.ph/file/0b105a1797ff9cf95ab5d.jpg)](https://github.com/sakshi444a/LEGENDUSERBOT)
 
 <h6 align="center">
   <b>⚡ LegendBot Is One Of The Fastest & Smoothest Bot On Telegram Based on Telethon⚡</b>
@@ -34,8 +34,8 @@
 
 ------
 ## Telegram 🏪
-- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/Legend_Userbot)
-- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/Official_LegendBot)
+- [![Telegram Group](https://img.shields.io/badge/Telegram-Group-brightgreen)](https://t.me/tech_giveawayz)
+- [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-brightgreen)](https://t.me/tech_giveawayz)
 
 ------
 ## YouTube 📺
